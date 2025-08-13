@@ -18,6 +18,9 @@ This is a basic C program that performs four arithmetic operations based on user
 ### **Compile**
 ```bash
 gcc Calctr.c -o Calctr
+Calctr
+OR
+./Calctr
 
 
 
