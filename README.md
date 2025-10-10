@@ -37,7 +37,7 @@ output.exe
 
 Here’s a simple example from the **Basics** section:
 
-```c
+```C
 #include <stdio.h>
 
 int main() {
