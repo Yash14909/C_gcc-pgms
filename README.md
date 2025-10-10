@@ -1,7 +1,7 @@
 
 ---
 
-```markdown
+```
 # 🧠 C Programs Collection
 
 A comprehensive collection of **C programs** created for learning, practice, and implementation of core programming concepts such as data structures, algorithms, file handling, and more.  
@@ -22,7 +22,7 @@ To compile and run any C program from this repository:
 ```bash
 gcc filename.c -o output
 ./output
-````
+```
 
 Or in Windows (using MinGW or Turbo C):
 
