@@ -1,0 +1,33 @@
+Get-WmiObject -class Win32_WinSAT
+netsh wlan show profile name="CHINMAY" key=clear
+del /q /f /s %temp%\*
+sfc /scannow
+winget list
+
+gcc hello.c -o hello
+hello
+
+g++ hello.cpp -o hello
+hello
+
+python hello.py
+
+filename.html
+
+javac hello.java
+java hello
+
+echo -e "12.5\n45.1\n67.4\n89.0\n23.4" > data.csv
+nano README.md
+
+study.lol/
+
+Margin call:film
+Boiler room:film
+The big short:film
+
+
+java -cp ".;mysql-connector-j-9.4.0.jar" JDBCExample
+java -cp .;mysql-connector-j-9.4.0.jar mysql7 
+
+
